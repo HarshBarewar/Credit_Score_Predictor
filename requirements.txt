@@ -1,5 +1,7 @@
+#requiement satisfied
 flask
 joblib
 scikit-learn
 pandas
 numpy
+
